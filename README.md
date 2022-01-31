@@ -5,7 +5,7 @@
 <b>Problem Statement:
 </b><br><br>
 Often teachers find themselves technologically overwhelmed when it comes to handing out tests in an interactive manner especially now when everything is in online mode.Technology goes hand in hand with new learning methods and a mobile app which can understand the need of both mentor and mentee is an efficient solution to this obstacle.
-<br>
+<br><br>
 <b>Proposed Solution :</b><br><br>
 This project proposes an interactive Quizzing system to help the students generate interest in mundane tests and learn their test better. The fun UI helps the students answer the quiz in a more confident way while making it easier for the teacher to grade as well.
 <img height=300,width=200 src="https://camo.githubusercontent.com/e7a991863b078a59b64c0d6e2d85d32b12b19b2cd8641acdbe635af5f4d5092a/68747470733a2f2f692e706f7374696d672e63632f79383068504d77482f312e6a7067">
